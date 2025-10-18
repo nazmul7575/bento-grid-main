@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+body {
+	font-family: "DMSans", sans-serif;
+}
+
+@font-face {
+	font-family: "DMSans";
+	src: url(/assets/fonts/DMSans-Italic-VariableFont_opsz\,wght.ttf);
+	src: url(/assets/fonts/DMSans-VariableFont_opsz\,wght.ttf);
+}
