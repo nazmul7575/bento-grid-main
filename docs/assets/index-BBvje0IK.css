@@ -732,8 +732,8 @@ body {
 }
 @font-face {
 	font-family: DMSans;
-	src: url(./assets/DMSans-Italic-VariableFont_opsz_wght-QlAps-ZO.ttf);
-	src: url(./assets/DMSans-VariableFont_opsz_wght-d9KJDlpM.ttf);
+	src: url(./DMSans-Italic-VariableFont_opsz_wght-QlAps-ZO.ttf);
+	src: url(./DMSans-VariableFont_opsz_wght-d9KJDlpM.ttf);
 }
 @property --tw-leading {
 	syntax: "*";
